@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700italic,800italic,400,600,700,800);
 body {
-  background-color: #f5f5f5;
+  background-image: url("/img/back.gif");
   padding: 120px 0;
   font-family: "Open Sans", sans-serif;
 }
@@ -161,3 +161,24 @@ img {
     opacity: 1;
   }
 }
+.filter h2 {
+  font-size: 14px;
+  color: #000000;
+  text-transform: uppercase;
+  margin: 0;
+}
+.filter p a {
+  color: #82b541;
+  text-decoration: none;
+}
+.graphic h2 {
+  font-size: 14px;
+  color: #000000;
+  text-transform: uppercase;
+  margin: 0;
+}
+.graphic p a {
+  color: #82b541;
+  text-decoration: none;
+}
+
